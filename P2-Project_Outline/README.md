@@ -1,18 +1,21 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
-
+## To-Dog List  
 ### Overview
-Include overview here
+To-do lists are an incredibly useful tool for everything from massive projects to daily chores, but they're not very exciting or interesting. Many people find satisfaction in ticking the boxes on their list, but others need more motivation, especially for less desired tasks. **To-Dog List** aims to solve both of those problems. When a task is marked as complete in To-Dog List, the user will be rewarded with a random picture of a dog. This may seem trivial to some people, but reward systems and visual reinforcement are shown to be very effective motivational strategies, especially with children (or anyone who loves dogs!). Being given a picture that elicits a positive reaction will motivate users to both write down their tasks in the app where it will be saved for them (no forgetting a task or losing the list) *and* follow through on completing the tasks, leading to increased productivity and higher self-esteem.
 ### Features
-Include Features here
+- User Login  
+>Users will be able to create an account and log in to be able to have separate, personalized to-do lists.
+- Create and Edit Tasks
+>Users will be able to create new tasks; mark tasks as complete or incomplete; and view, edit, and delete existing tasks, including both completed and uncompleted tasks.
+- Display Random Dog Pictures
+>Upon completing a task, users will be presented with a random dog picture per completed task pulled from [Dog API](https://dog.ceo/dog-api/).
 ### Technologies
-Include Technologies here
+- C#
+- ASP.NET
+- MySql
 ### What I'll Have to Learn
-Include what you will need to learn here
+- Creating and validating user profiles  
+- Password encryption  
+- Importing a public API  
 ### Project Tracker
-Link to your Trello board here
+[Trello Board](https://trello.com/b/V2XEzulp/project)
