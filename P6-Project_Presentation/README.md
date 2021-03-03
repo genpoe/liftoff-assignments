@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-[Presentation slidedeck](https://github.com/gilmarsh/liftoff-assignments/blob/master/P6-Project_Presentation/Presentation.pdf]
+[Presentation slidedeck](https://github.com/gilmarsh/liftoff-assignments/blob/master/P6-Project_Presentation/Presentation.pdf)
